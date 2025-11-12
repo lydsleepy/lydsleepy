@@ -1,0 +1,1 @@
+![header](https://capsule-render.vercel.app/api?&type=waving&color=ffb3c6&height=300&section=header&text=lydia%20huang&fontColor=FFFFFF&fontSize=95&fontAlignY=33&stroke=f4acb7&strokeWidth=3&desc=let's%20connect!&descSize=30)
