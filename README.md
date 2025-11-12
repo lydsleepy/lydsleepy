@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=#000000&height=300&section=header&text=lydia%20huang&fontSize=90&stroke=#FFFFFF&strokeWidth=3" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb3c6&height=300&section=header&text=lydia%20huang&fontColor=000000&fontSize=90&fontAlignY=20&stroke=FFFFFF)
